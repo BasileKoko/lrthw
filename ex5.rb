@@ -17,5 +17,11 @@ puts "His teeth are usually #{teeth} depending on the coffee."
 puts "If I add #{age}, #{height}, and #{weight} I get #{age + height + weight}"
 
 #Study drill
-# x (inches) = 2.54 * x (cm)
-# y (pounds) =  0.453592 * y  (kg) 
+inches = 20
+centimeters = inches * 2.54
+puts "#{inches} inches equals #{centimeters} centimeters."
+
+pounds = 50
+kilograms = pounds * 0.45359237
+puts "#{pounds} pounds is equal to #{kilograms} kilograms."
+
