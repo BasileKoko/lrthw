@@ -28,7 +28,8 @@ get_up_stand_up = Song.new(lyrics3)
 
 
 lyrics4 = ["Nooo woman no cry", 
-           "No woman no cry!"]
+           "No woman no cry!",
+           "said, said, said, I remember when we used to sit..."]
 no_woman_no_cry = Song.new(lyrics4)
 
 happy_bday.sing_me_a_song()
